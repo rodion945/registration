@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+.container {
+    text-align: left;
+    margin-right: 20px;
+}
+h3 {
+    margin: 0;
+    font-weight: lighter;
+    color: gray;
+}
+p {
+    margin: 5px 0;
+    font-size: 40px;
+}
+p3 {
+    font-size: 12px; 
+    color: gray;
+}
+p2 {
+    font-size: 12px; 
+}
